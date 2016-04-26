@@ -1,2 +1,0 @@
-# capgemini
-TDD Shop application
